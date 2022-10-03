@@ -1,5 +1,5 @@
 ### Hi Y'all 👋
-![](https://github.com/Your_Repository_Name/itachi-uchiha-naruto.gif)
+![](https://github.com/furiousprd15/itachi-uchiha-naruto.gif)
 
 <h3 align="center">
 I am a research aspirant deeply interested in exploring bioelectronics, particularly brain-computer interfaces.
