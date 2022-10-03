@@ -19,9 +19,6 @@ Always eager to learn new things!!!
 
 - ⚡ Fun fact **I really love anime**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,3 +35,6 @@ Always eager to learn new things!!!
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=furiousprd15&show_icons=true&locale=en&layout=compact" alt="furiousprd15" /></p>
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=furiousprd15&show_icons=true&locale=en&layout=compact" alt="furiousprd15" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furiousprd15&" alt="furiousprd15" /></p>
