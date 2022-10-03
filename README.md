@@ -1,7 +1,8 @@
 ### Hi all 👋
 
-<h3 align="center">I am a reseach 
-I am a research aspirant deeply interested in exploring biomedical engineering, and bioelectronics, particularly brain-computer interfaces and biosensors
+<h3 align="center">
+I am a research aspirant deeply interested in exploring bioelectronics, particularly brain-computer interfaces and biosensors.
+
 Always eager to learn new things!!!
 
 </h3>
