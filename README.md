@@ -1,5 +1,5 @@
 ### Hi Y'all 👋
-![](https://github.com/furiousprd15/itachi-uchiha-naruto.gif)
+![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fitachi-uchiha-naruto-fire-red-eyes-anime-gif-17830637&psig=AOvVaw0u244hy5QrWXaml1gR9F05&ust=1664879741185000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCND3nb7uw_oCFQAAAAAdAAAAABAD.gif)
 
 <h3 align="center">
 I am a research aspirant deeply interested in exploring bioelectronics, particularly brain-computer interfaces.
