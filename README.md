@@ -38,4 +38,5 @@ Always eager to learn new things!!!
 ---
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=furiousprd15&show_icons=true)  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furiousprd15&" alt="furiousprd15" /></p>
