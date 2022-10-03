@@ -17,7 +17,7 @@ Always eager to learn new things!!!
 - 📫 How to reach me **karaksoham2002@gmail.com**
 - 😄 Pronouns: He/itachitard :)
 
-- ⚡ Fun fact **I really love anime **
+- ⚡ Fun fact **I really love anime**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
