@@ -8,7 +8,7 @@ Always eager to learn new things!!!
 </h3>
 
 - 🔭 I’m currently working on **Motor imagery based BCI classification**
-- 👯 I’m looking to collaborate on **Polymer design with SMILE fingerprint pred web-based deployment**
+- 👯 I’m looking to collaborate on **Web-based deployment of Polymer design with SMILE fingerprint**
 - 🤔 I’m looking for help with **MATLAB based DSB-CSP algorithms**
 - 🌱 I’m currently learning **PyTorch, WebDev**
 
