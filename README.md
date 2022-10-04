@@ -40,4 +40,4 @@ Always eager to learn new things!!!
 ### GitHub stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=furiousprd15&count_private=true&theme=radical&show_icons=true) <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furiousprd15" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furiousprd15&" alt="furiousprd15" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furiousprd15&" alt="furiousprd15" />
