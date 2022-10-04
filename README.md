@@ -1,9 +1,9 @@
 ### Minasan konnichiwa! 👋
 ![HI there](itachi-uchiha-naruto.gif)
 
-<h3 align="center">
+<h3 >
 I am a research aspirant deeply interested in exploring bioelectronics, particularly brain-computer interfaces.
-
+<br>
 Always eager to learn new things!!!
 
 </h3>
