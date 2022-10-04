@@ -37,6 +37,7 @@ Always eager to learn new things!!!
   [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/track/5sbkFKdxVQ2FgEjKMvrHAL?si=9ea64ff0223d42f9)
 ---
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=furiousprd15&show_icons=true)  
+### GitHub stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=furiousprd15&show_icons=true) 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furiousprd15" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furiousprd15&" alt="furiousprd15" /></p>
