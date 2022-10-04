@@ -1,4 +1,4 @@
-### Hi Y'all 👋
+### Minasan konnichiwa! 👋
 ![HI there](itachi-uchiha-naruto.gif)
 
 <h3 align="center">
