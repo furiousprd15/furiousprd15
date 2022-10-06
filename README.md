@@ -2,7 +2,7 @@
 ![HI there](itachi-uchiha-naruto.gif)
 
 <h3 >
-Hi, I am a Soham Karak, a Sophomore at Electronics Dept. IIT Guwahati, deeply interested in Reseach work exploring bioelectronics, particularly brain-computer interfaces.
+Hi, I am a Soham Karak, a Sophomore at Electronics Dept. IIT Guwahati, deeply interested in Research work exploring bioelectronics, particularly brain-computer interfaces.
 <br>
 Always eager to learn new things!!!
 
