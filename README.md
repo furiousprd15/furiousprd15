@@ -2,16 +2,15 @@
 ![HI there](itachi-uchiha-naruto.gif)
 
 <h3 >
-Hi, I am a Soham Karak, a Sophomore at Electronics Dept. IIT Guwahati, deeply interested in Research work exploring bioelectronics, particularly brain-computer interfaces.
+Hi, I am a Soham Karak, a Sophomore at Electronics Dept. IIT Guwahati deeply interested in Research work exploring bioelectronics, particularly brain-computer interfaces.
 <br>
 Always eager to learn new things!!!
 
 </h3>
 
-- 🔭 I’m currently working on **Motor imagery based BCI classification**
-- 👯 I’m looking to collaborate on **Web-based deployment of Polymer design with SMILE fingerprint**
-- 🤔 I’m looking for help with **MATLAB based DSB-CSP algorithms**
-- 🌱 I’m currently learning **PyTorch, WebDev**
+- 🔭 I’m currently working on **Adversarial Knowledge Distillation**
+- 👯 I’m looking to collaborate on **Spiking neural nets and Liquid State machines**
+- 🌱 I’m currently learning **snnTorch,mne**
 
 - 💬 Ask me about **Signal Processing,BCI**
 
